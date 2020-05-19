@@ -4,8 +4,8 @@
 <!--- Describe your changes in detail below this comment -->
 <!--- A strong description contains a concise list of changes/removals/additions -->
 Hello. This PR does the following:
-<!--- 1. Adding xx
-1. Adding yy
+<!--- 
+1. Adding xx
 2. Changing xx
 3. Fixing xx
 4. Removing xx -->
